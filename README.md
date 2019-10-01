@@ -113,6 +113,8 @@ The following Docker images are used in this sample
 * [microsoft/aspnetcore-build:2.0](https://hub.docker.com/r/microsoft/aspnetcore-build)
 * [microsoft/aspnetcore:2.0](https://hub.docker.com/r/microsoft/aspnetcore/)
 
+## Kubernates Deploy
+* https://medium.com/@bterkaly/running-asp-net-applications-in-kubernetes-a-detailed-step-by-step-approach-96c98f273d1a
 ## Related Resources
 
 * [ASP.NET Core Getting Started Tutorials](https://www.asp.net/get-started)
